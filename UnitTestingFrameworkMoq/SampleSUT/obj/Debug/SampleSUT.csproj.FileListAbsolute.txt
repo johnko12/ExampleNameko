@@ -1,0 +1,10 @@
+C:\Users\AnnaFernandez\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\bin\Debug\SampleSUT.dll
+C:\Users\AnnaFernandez\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\bin\Debug\SampleSUT.pdb
+C:\Users\AnnaFernandez\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.csprojResolveAssemblyReference.cache
+C:\Users\AnnaFernandez\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.dll
+C:\Users\AnnaFernandez\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\bin\Debug\SampleSUT.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\bin\Debug\SampleSUT.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\UnitTestingFrameworkMoq\SampleSUT\obj\Debug\SampleSUT.pdb
